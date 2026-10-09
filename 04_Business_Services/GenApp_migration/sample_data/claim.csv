@@ -1,0 +1,3 @@
+claim_number,policy_number,claim_date,paid,value,cause,observations
+1000001,6,2024-03-14,150000,180000,Storm damage to roof,Adjuster confirmed wind damage
+1000002,1,2024-06-02,4200,4200,Windscreen replacement,Standard glass claim

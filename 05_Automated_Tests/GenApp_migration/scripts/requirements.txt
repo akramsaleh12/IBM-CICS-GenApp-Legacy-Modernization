@@ -1,0 +1,2 @@
+psycopg2-binary
+pytest>=8.0
